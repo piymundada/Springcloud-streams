@@ -1,1 +1,1 @@
-# spingcloud-strea
+# spingcloud-streams-producer-consumer-binding
